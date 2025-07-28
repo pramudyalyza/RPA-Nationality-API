@@ -1,0 +1,27 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "INDEX&Sequence_1",
+        "COUNTRY_ARRAY&Sequence_4",
+        "API_OUTPUT_STR&Sequence_4",
+        "API_OUTPUT&Sequence_4",
+        "MASTER_PATH&Sequence_1",
+        "LOC_FILE_ADDRESS&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
